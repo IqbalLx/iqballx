@@ -9,7 +9,6 @@
 * 🤖 I'm an AI Enthusiast -- Computer Vision Focused
 * 👨🏼‍💻 Work with NodeJS/TS, Golang and Python
 * 🎤 I talk about AI and Computer Vision
-* 🦾 Currently hacking on how to create scalable and maintainable system that benefit both **UX -- User Experience** and **DX -- Developer Experience**
 
 ## 📈 Github Stats
 
